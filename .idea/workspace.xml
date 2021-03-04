@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="" />
+    <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -308,12 +310,12 @@
       <option name="presentableId" value="Default" />
       <updated>1614830416646</updated>
       <workItem from="1614830417923" duration="3249000" />
-      <workItem from="1614843928013" duration="4697000" />
+      <workItem from="1614843928013" duration="4910000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7946000" />
+    <option name="totallyTimeSpent" value="8159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="63" y="23" width="1440" height="826" extended-state="0" />
