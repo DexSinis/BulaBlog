@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content/docs/example/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/example/0.文档导航.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/0.文档导航.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -53,13 +53,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="html" value="1" />
+          <entry key="md" value="1" />
           <entry key="toml" value="1" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="HTML" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -80,13 +83,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/menu/index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="38" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="38" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/book/layouts/_default/_markup/render-link.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/0.文档导航.md">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -156,6 +173,7 @@
       <find>Example Site</find>
       <find>1313</find>
       <find>hugo</find>
+      <find>_index.md</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -216,13 +234,6 @@
               <item name="BulaBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="example" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BulaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="menu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -277,7 +288,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="_index.md&#9;FILE&#9;file:///Users/dexsinis/D/Jeecg/BulaBlog/themes/book/exampleSite/content/docs/example/_index.md&#10;shortcodes&#9;FILE&#9;file:///Users/dexsinis/D/Jeecg/DexSinis/content/docs/shortcodes" />
+    <property name="SearchEverywhereHistoryKey" value="content&#9;FILE&#9;file:///Users/dexsinis/D/Jeecg/BulaBlog/content&#10;_index.md&#9;FILE&#9;file:///Users/dexsinis/D/Jeecg/BulaBlog/themes/book/exampleSite/content/docs/example/_index.md&#10;shortcodes&#9;FILE&#9;file:///Users/dexsinis/D/Jeecg/DexSinis/content/docs/shortcodes" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -311,18 +322,17 @@
       <option name="presentableId" value="Default" />
       <updated>1614830416646</updated>
       <workItem from="1614830417923" duration="3249000" />
-      <workItem from="1614843928013" duration="3834000" />
+      <workItem from="1614843928013" duration="3998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7083000" />
+    <option name="totallyTimeSpent" value="7247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="191" y="23" width="1440" height="826" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30232558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30232558" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -334,7 +344,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44686648" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.44686648" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -404,10 +414,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/menu/index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="38" />
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/book/layouts/_default/_markup/render-link.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/0.文档导航.md">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
