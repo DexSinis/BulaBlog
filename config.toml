@@ -1,3 +1,4 @@
 baseURL = "http://114.215.124.68:13131"
 languageCode = "en-us"
 title = "布拉操作文档"
+relativeurls = true
