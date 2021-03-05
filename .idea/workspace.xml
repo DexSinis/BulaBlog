@@ -3,53 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/development/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/golang/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/example/0.文档导航/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/0.文档导航/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/example/1.收费操作/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/1.收费操作/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/example/2.排课管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/2.排课管理/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/example/3.内部排班管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/3.内部排班管理/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/creating-a-new-theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/creating-a-new-theme/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/goisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/goisforlovers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/hugoisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/hugoisforlovers/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/migrate-from-jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/migrate-from-jekyll/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/development/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/go/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/go/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/golang/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/hugo/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/templates/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/templates/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/page/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/themes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/themes/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/docs/example/4.教师手册.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/example/4.教师手册.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -101,7 +55,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="2" />
-          <entry key="md" value="4" />
+          <entry key="md" value="5" />
           <entry key="toml" value="2" />
           <entry key="yml" value="1" />
         </counts>
@@ -109,20 +63,20 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="2" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="PLAIN_TEXT" value="7" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="md" value="4" />
+          <entry key="md" value="8" />
           <entry key="toml" value="24" />
           <entry key="yml" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="28" />
+          <entry key="PLAIN_TEXT" value="32" />
           <entry key="YAML" value="52" />
         </counts>
       </usages-collector>
@@ -164,15 +118,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/book/exampleSite/content/menu/index.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/docs/example/0.文档导航.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -199,11 +144,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
               <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/docs/example/4.教师手册.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="242" column="1" selection-start-line="242" selection-start-column="1" selection-end-line="242" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -246,6 +200,7 @@
         <option value="$PROJECT_DIR$/content/menu/index.md" />
         <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/content/docs/example/4.教师手册.md" />
       </list>
     </option>
   </component>
@@ -256,9 +211,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="244" />
+    <option name="x" value="60" />
     <option name="y" value="23" />
-    <option name="width" value="1679" />
+    <option name="width" value="1873" />
     <option name="height" value="826" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -324,6 +279,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/docs/example" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/docs/example" />
     </key>
@@ -351,17 +309,18 @@
       <option name="presentableId" value="Default" />
       <updated>1614830416646</updated>
       <workItem from="1614830417923" duration="3249000" />
-      <workItem from="1614843928013" duration="10977000" />
+      <workItem from="1614843928013" duration="12845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14226000" />
+    <option name="totallyTimeSpent" value="16094000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="483" y="23" width="1440" height="826" extended-state="0" />
+    <frame x="21" y="42" width="1873" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13178295" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16414687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -443,13 +402,6 @@
     <entry file="file://$PROJECT_DIR$/content/posts/_index.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/docs/example/0.文档导航.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/content/menu/index.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -482,6 +434,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/docs/example/0.文档导航.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/docs/example/4.教师手册.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="242" column="1" selection-start-line="242" selection-start-column="1" selection-end-line="242" selection-end-column="1" />
         </state>
       </provider>
     </entry>
