@@ -8,7 +8,7 @@ install:
   - chmod +x hugo
   - export PATH=$PATH:$PWD
   - hugo version
-script: hugo
+script: hugo --theme book
 deploy:
   provider: pages
   skip_cleanup: true
