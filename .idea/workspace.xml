@@ -5,20 +5,53 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/development/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/development/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/golang/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/golang/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/example/0.文档导航/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/0.文档导航/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/example/1.收费操作/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/1.收费操作/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/example/2.排课管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/2.排课管理/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/example/3.内部排班管理/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/example/3.内部排班管理/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/docs/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/docs/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/creating-a-new-theme/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/creating-a-new-theme/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/goisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/goisforlovers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/hugoisforlovers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/hugoisforlovers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/posts/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/migrate-from-jekyll/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/migrate-from-jekyll/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/posts/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/posts/page/1/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/development/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/development/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/development/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/go/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/go/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/go/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/go/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/golang/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/golang/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/golang/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/golang/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/hugo/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/hugo/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/hugo/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/templates/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/templates/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/templates/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/themes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/tags/themes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/themes/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/themes/page/1/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -159,20 +192,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state>
+              <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="114" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -191,11 +224,13 @@
       <find>1313</find>
       <find>_index.md</find>
       <find>relativeurls</find>
-      <find>hugo</find>
       <find>114.215.124.68:13131</find>
+      <find>hugo</find>
+      <find>dexsinis.github.io</find>
     </findStrings>
     <replaceStrings>
       <replace>dexsinis.github.io</replace>
+      <replace>coding-pages-bucket-1252010-8426029-13858-520654-1253682189.cos-website.ap-hongkong.myqcloud.com</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -210,8 +245,8 @@
         <option value="$PROJECT_DIR$/content/docs/shortcodes/收费操作.md" />
         <option value="$PROJECT_DIR$/content/docs/example/_index.md" />
         <option value="$PROJECT_DIR$/content/menu/index.md" />
-        <option value="$PROJECT_DIR$/config.toml" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/config.toml" />
       </list>
     </option>
   </component>
@@ -276,17 +311,6 @@
               <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="BulaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="BulaBlog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -328,18 +352,18 @@
       <option name="presentableId" value="Default" />
       <updated>1614830416646</updated>
       <workItem from="1614830417923" duration="3249000" />
-      <workItem from="1614843928013" duration="8803000" />
+      <workItem from="1614843928013" duration="9632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12052000" />
+    <option name="totallyTimeSpent" value="12881000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="141" y="23" width="1440" height="826" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30232558" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2840028" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -442,17 +466,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="114" />
         </state>
       </provider>
     </entry>
