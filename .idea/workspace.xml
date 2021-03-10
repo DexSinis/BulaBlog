@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/content/docs/example/6.线上考级活动.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/docs/example/6.线上考级活动.md" afterDir="false" />
-    </list>
+    <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
