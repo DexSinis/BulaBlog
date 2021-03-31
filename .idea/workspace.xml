@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/0.文档导航.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/1.收费操作.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/2.排课管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/3.内部体验课时间管理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/4.教师手册.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/5.课时明细.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/docs/example/6.线上考级活动.md" beforeDir="false" />
-    </list>
+    <list default="true" id="7a66d070-9393-4053-9990-cbec124c97df" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -65,16 +56,16 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="2" />
-          <entry key="md" value="20" />
+          <entry key="html" value="3" />
+          <entry key="md" value="21" />
           <entry key="toml" value="2" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="2" />
-          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="HTML" value="3" />
+          <entry key="PLAIN_TEXT" value="23" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -128,11 +119,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            <state relative-caret-position="229">
+              <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/docs/example/0.文档导航/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-623">
+              <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -159,6 +159,7 @@
       <find>(实际消耗+预约)课时</find>
       <find>Creating a New Theme</find>
       <find>as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all</find>
+      <find>靠教学质量求生存 凭家长口碑谋发展</find>
     </findStrings>
     <replaceStrings>
       <replace>dexsinis.github.io</replace>
@@ -231,6 +232,22 @@
               <item name="BulaBlog" type="b2602c69:ProjectViewProjectNode" />
               <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
               <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="文档导航" type="462c0819:PsiDirectoryNode" />
+              <item name="优贝甜" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BulaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="文档导航" type="462c0819:PsiDirectoryNode" />
+              <item name="布拉" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BulaBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BulaBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="menu" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -295,17 +312,18 @@
       <workItem from="1615191929939" duration="681000" />
       <workItem from="1615193373773" duration="620000" />
       <workItem from="1615363550602" duration="662000" />
-      <workItem from="1617158781273" duration="2011000" />
+      <workItem from="1617158781273" duration="2330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23504000" />
+    <option name="totallyTimeSpent" value="23823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="23" width="1440" height="826" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24453841" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24453841" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -317,7 +335,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32970026" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23978202" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.4223433" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -461,10 +479,24 @@
     <entry file="file://$PROJECT_DIR$/content/docs/外部文档/优贝甜/_index.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/content/docs/文档导航/优贝甜/page1.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/public/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="229">
+          <caret line="37" column="6" lean-forward="true" selection-start-line="37" selection-start-column="6" selection-end-line="37" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/docs/example/0.文档导航/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-623">
+          <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
         </state>
       </provider>
     </entry>
